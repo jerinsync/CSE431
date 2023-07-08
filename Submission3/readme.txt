@@ -3,7 +3,7 @@ https://www.youtube.com/playlist?list=PL1b8qbusMs6A6fqYnaDXxmrPOvZCG7gyC
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
-
+https://app.diagrams.net/#G1y2MJCpphOEu0RMHPKD8wPqimUeIt--mP
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
