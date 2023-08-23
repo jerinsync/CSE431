@@ -2,6 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/6495cd0e28c9a2aaf863220f
 
 Unlisted YouTube video:
+https://www.youtube.com/watch?v=zkRIcbwjfl8&ab_channel=FarihaHasan
 
 Paper title:
 Detecting Derogatory Comments On Women Using Transformer-Based Models
