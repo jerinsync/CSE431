@@ -8,9 +8,9 @@ https://app.diagrams.net/#G1y2MJCpphOEu0RMHPKD8wPqimUeIt--mP
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
 Daniel Jurafsky (Author), James Martin (Author)
-2nd Edition
-May 16, 2008
-Prentice Hall
+3rd edition
+2014
+Pearson
 
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
