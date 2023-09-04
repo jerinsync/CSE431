@@ -6,7 +6,7 @@ PDF:
 https://github.com/jerinsync/CSE431/blob/main/Submission3/431_concept_map.drawio.pdf
 
 Native/original format: 
-https://app.diagrams.net/#G11SOAj9DF06THkXitwMfVBQC8WoO4DQ6g
+https://drive.google.com/drive/folders/1dHu__-W7AszlBiC5BgyD69RwgaLhocOu
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
