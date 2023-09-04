@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=uaR4342c1t8&list=PL1b8qbusMs6A6fqYnaDXxmrPOvZCG7
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
+https://github.com/jerinsync/CSE431/blob/main/Submission3/431_concept_map.drawio.pdf
 
 Native/original format: 
 https://app.diagrams.net/#G11SOAj9DF06THkXitwMfVBQC8WoO4DQ6g
