@@ -15,5 +15,9 @@ https://web.stanford.edu/~jurafsky/slp3/4.pdf
 https://web.stanford.edu/~jurafsky/slp3/9.pdf
 https://web.stanford.edu/~jurafsky/slp3/10.pdf
 
+was active in slack:
+https://bucse431summer2023.slack.com/archives/C05B3TZ96MU/p1692559501048189
+https://bucse431summer2023.slack.com/archives/C05B3TZ96MU/p1692773464133589
+
 Submitter:
 21101306 Sara Jerin Prithila 
