@@ -1,8 +1,4 @@
-Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/5462826698ykzttvdrhrsv
 
-Unlisted YouTube video:
-https://www.youtube.com/watch?v=3z_VDfl0hJw&ab_channel=FarihaHasan
 
 Paper title:
 Detecting Derogatory Comments On Women Using Transformer based models
