@@ -1,6 +1,3 @@
-Unlisted YouTube video:
-https://www.youtube.com/watch?v=zkRIcbwjfl8&ab_channel=FarihaHasan
-
 Conference submitted paper / paper submission / login Link:
 https://edas.info/newPaper.php?c=30927
 
